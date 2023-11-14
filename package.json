@@ -1,18 +1,23 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "Kanon11",
-	"description": "Learning Project For package.json",
-	"keywords": ["freecodecamp","Learning","package.json"],
-	"dependencies": {
-		"dotenv": "^16.3.1",
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "Kanon11",
+  "description": "Learning Project For package.json",
+  "keywords": [
+    "freecodecamp",
+    "Learning",
+    "package.json"
+  ],
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kanon11/boilerplate-npm.git"
+  },
+  "license":"MIT"
 }
