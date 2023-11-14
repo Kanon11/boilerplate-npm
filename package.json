@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kanon11",
 	"description": "Learning Project For package.json",
+	"keywords": ["freecodecamp","Learning","package.json"],
 	"dependencies": {
 		"dotenv": "^16.3.1",
 		"express": "^4.14.0"
