@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Kanon11",
   "description": "Learning Project For package.json",
+  "version": "1.0.0",
   "keywords": [
     "freecodecamp",
     "Learning",
